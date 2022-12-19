@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/pejoyjp/static/js/main.8abdbe0c.js",
+    "static/media/logo.png": "/pejoyjp/static/media/logo.dac0bed41c3e520b6317.png",
+    "static/media/reactLogo.png": "/pejoyjp/static/media/reactLogo.a64408aa1a06f5e2b47c.png",
+    "static/media/guitarLogo.png": "/pejoyjp/static/media/guitarLogo.85edf18f6b6ac8cefb91.png",
+    "static/media/jsLogo.png": "/pejoyjp/static/media/jsLogo.8618298aa7a3f221cfc1.png",
+    "index.html": "/pejoyjp/index.html",
+    "main.8abdbe0c.js.map": "/pejoyjp/static/js/main.8abdbe0c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8abdbe0c.js"
+  ]
+}
